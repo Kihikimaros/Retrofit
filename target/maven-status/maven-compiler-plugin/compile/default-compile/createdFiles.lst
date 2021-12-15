@@ -1,0 +1,7 @@
+enums\CategoryType.class
+utils\RetrofitUtils.class
+utils\PrettyLogger.class
+service\CategoryService.class
+dto\Product.class
+service\ProductService.class
+dto\Category.class
